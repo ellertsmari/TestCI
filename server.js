@@ -10,4 +10,4 @@ app.listen(PORT, ()=>{
     console.log("listening to port:", PORT);
 })
 
-console.log(testable("talan er: ", 8));
+console.log(testable("talan er: ", 8+2));
